@@ -43,7 +43,7 @@ while True:
 
         #listing out common patterns of coordinates shown in research papers
         #compile the patterns and assign them to different variables
-        pattern_1 = re.compile(r'\d+\D\d+\W\d+\D\d+\W\w')
+        pattern_1 = re.compile(r'\d+°\d+\W\d+\D\d+"\w')
         pattern_2 = re.compile(r'\d+\d\.\d+\°\w')
 
         #find an item in the text that follow these patterns
@@ -94,7 +94,7 @@ while True:
 
         myimg_text = pt.image_to_string(mydata)
 
-        pattern_1 = re.compile(r'\d+\D\d+\W\d+\D\d+\W\w')
+        pattern_1 = re.compile(r'\d+°\d+\W\d+\D\d+"\w')
         pattern_2 = re.compile(r'\d+\d\.\d+\°\w')
 
 
