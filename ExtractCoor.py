@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-#EtractCoor: Extract longitude and latitude coordinates from pdf and image files
+#EtractCoor: Extract geographic coordinates from pdf and image files
 #C.E. Supsup & T. Nguyen
 #28 April 2022
 
