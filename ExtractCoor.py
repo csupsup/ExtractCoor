@@ -4,7 +4,7 @@
 #by C.E. Supsup & T. Nguyen
 #28 April 2022
 
-#required modules (install outside this command, using the default terminal on mac or linux)
+#required modules (install outside this command using the default terminal on mac or linux)
 #pip install tkinter
 #pip install tika
 #pip install pytesseract
