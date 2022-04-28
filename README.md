@@ -16,3 +16,10 @@ pip install tika
 pip install pytesseract
 pip install pillow
 ```
+How to use?
+Put the code (ExtractCoor.py) on your desktop folder and access it from the terminal. 
+```
+cd /Users/username/Desktop
+python ExtractCoor.py
+
+```
