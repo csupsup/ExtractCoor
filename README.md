@@ -1,5 +1,5 @@
 # ExtractCoor - Extract geographic coordinates from pdf and image files
-This code can automate longitude and latitude extraction from pdf and image files and store these to a csv file, which can be used directly to any GIS software. Currently, only the following formats can be extracted:
+This code can automate longitude and latitude extraction from pdf and image files and store these in a csv file, which can be used directly in any GIS software. Currently, only the following formats can be extracted:
 ```
 Degrees, minutes, and seconds: 6°31′21″N, 114°09′50″W
 Decimal degrees: 36.5243°S, 114.1641°W
