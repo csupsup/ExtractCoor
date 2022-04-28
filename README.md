@@ -7,7 +7,7 @@ Decimal degrees: 36.5243°S, 114.1641°W
 We wrote and tested the python code under Linux Mint and macOS. Before using the tool make sure to install the following:
 1. Python3 https://www.python.org/downloads/
 2. Java https://java.com/en/download/manual.jsp
-3. Tesseract OCR (optional) https://github.com/tesseract-ocr/tesseract
+3. Tesseract OCR https://github.com/tesseract-ocr/tesseract
 
 Required python modules:
 ```
