@@ -90,7 +90,6 @@ myimg_text = pt.image_to_string(mydata)
 img_p1_long_lat = pattern_1.findall(myimg_text)
 img_p2_long_lat = pattern_2.findall(myimg_text)
 
-
 for img_pat1 in img_p1_long_lat:
     if img_pat1 == "":
         print("No available coordinates")
